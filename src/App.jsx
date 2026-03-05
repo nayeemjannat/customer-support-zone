@@ -3,6 +3,8 @@ import Navbar from './Components/Navbar/Navbar';
 import Banner from './Components/Banner/Banner';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import TicketGrid from './Components/TicketSection/TicketGrid';
+import Footer from './Components/Footer/Footer';
 
 
 
