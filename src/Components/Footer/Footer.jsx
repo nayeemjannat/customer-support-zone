@@ -11,7 +11,9 @@ const Footer = () => {
                 <div className="md:col-span-1">
                     <h2 className="text-2xl font-bold mb-6">CS — Ticket System</h2>
                     <p className="text-gray-400 text-sm leading-relaxed max-w-xs">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                       Manage, track, and resolve customer inquiries faster than ever. 
+    Our integrated ticketing system helps your team stay organized 
+    and deliver exceptional support.
                     </p>
                 </div>
 
