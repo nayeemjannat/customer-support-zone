@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue in dashboard",
+    "description": "User is unable to login using Google authentication.",
+    "customer": "Rahat Ahmed",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-10-25"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway timeout",
+    "description": "SSLCommerz gateway is timing out during checkout.",
+    "customer": "Sifat Hasan",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-10-26"
+  },
+  {
+    "id": 3,
+    "title": "Profile picture not updating",
+    "description": "Users cannot upload profile pictures larger than 2MB.",
+    "customer": "Anika Tabassum",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-10-26"
+  },
+  {
+    "id": 4,
+    "title": "Responsive bug in Navbar",
+    "description": "Navbar menu is overlapping on mobile devices.",
+    "customer": "Tanvir Hossain",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-10-27"
+  },
+  {
+    "id": 5,
+    "title": "Email notification delay",
+    "description": "Forgot password emails are arriving after 10 minutes.",
+    "customer": "Farhana Karim",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-10-27"
+  },
+  {
+    "id": 6,
+    "title": "Invoice PDF download error",
+    "description": "Generating invoice PDF results in a 500 server error.",
+    "customer": "Moinul Islam",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-10-28"
+  },
+  {
+    "id": 7,
+    "title": "Search filter not working",
+    "description": "Filtering by date range does not return correct results.",
+    "customer": "Sumaiya Akter",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-10-28"
+  },
+  {
+    "id": 8,
+    "title": "Dark mode contrast issue",
+    "description": "Text is not visible in dark mode for some sections.",
+    "customer": "Zubair Khan",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-10-29"
+  },
+  {
+    "id": 9,
+    "title": "API integration for weather",
+    "description": "Update the weather API to use the new version 3.0.",
+    "customer": "Kamrul Hassan",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-10-29"
+  },
+  {
+    "id": 10,
+    "title": "Session timeout setting",
+    "description": "Extend session timeout from 30 minutes to 2 hours.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-10-30"
+  },
+  {
+    "id": 11,
+    "title": "Broken link in Footer",
+    "description": "The Privacy Policy link leads to a 404 page.",
+    "customer": "Abir Ahmed",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-10-30"
+  },
+  {
+    "id": 12,
+    "title": "Slow database queries",
+    "description": "The ticket list takes too long to load on initial render.",
+    "customer": "Sadia Islam",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-10-31"
+  },
+  {
+    "id": 13,
+    "title": "New feature: Export CSV",
+    "description": "Add a button to export all ticket data to CSV format.",
+    "customer": "Imtiaz Ahmed",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-10-31"
+  },
+  {
+    "id": 14,
+    "title": "Broken images in Blog",
+    "description": "Blog posts are not displaying their featured images.",
+    "customer": "Rina Akter",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-11-01"
+  },
+  {
+    "id": 15,
+    "title": "User permission bug",
+    "description": "Standard users can see the admin settings panel.",
+    "customer": "Fahim Shahriar",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-11-01"
+  }
+]
